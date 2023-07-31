@@ -1,1 +1,1 @@
-{"train_roc_auc_score": 1.0, "train_precision": 0.98, "train_recall": 0.94, "train_f1": 0.96, "train_accuracy": 0.97, "test_roc_auc_score": 1.0, "test_precision": 0.98, "test_recall": 0.91, "test_f1": 0.94, "accuracy": 0.96}
+{"train_roc_auc_score": 1.0, "train_precision": 0.99, "train_recall": 0.99, "train_f1": 0.99, "train_accuracy": 0.99, "test_roc_auc_score": 1.0, "test_precision": 0.99, "test_recall": 0.97, "test_f1": 0.98, "accuracy": 0.99, "feature_set_name": "LABELED_EVIDENCE_FEATURE_VECTOR_1690847038", "model_name": "logistic_regression"}
