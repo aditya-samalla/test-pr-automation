@@ -1,0 +1,1 @@
+{"train_roc_auc_score": 0.99, "train_precision": 0.95, "train_recall": 0.95, "train_f1": 0.95, "train_accuracy": 0.95, "test_roc_auc_score": 0.99, "test_precision": 0.95, "test_recall": 0.96, "test_f1": 0.95, "accuracy": 0.95, "feature_set_name": "LABELED_EVIDENCE_FEATURE_VECTOR_1691308294"}
